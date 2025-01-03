@@ -1,8 +1,9 @@
 ## how to use
-set variables in .env.example
-rename .env.example to .env
-install dependencies
-run application `__main__.py`
+
+- set variables in .env.example<br>
+- rename .env.example to .env<br>
+- install dependencies<br>
+- run application `__main__.py`<br>
 
 ```bash
 pip install -r requirements.txt
